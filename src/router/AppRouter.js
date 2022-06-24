@@ -31,7 +31,7 @@ export const AppRouter = () => {
 
           </Route>
 
-          <Route path='*' element={<h1>Not Found</h1>}/>
+          
 
         </Routes>
 
